@@ -11,9 +11,9 @@ android package shell and 360加固
 4. jks 存放位置为 项目/app,的同级目录,/jks/test.jks,像这样
 4. 通过命令行 cd 进入本项目的bin目录,执行npm i
 5. 通过命令行 cd 进入本项目的bin目录,执行node android
+6. 全局模式:通过命令行进行到testjs中,执行npm link,成功后在控制台执行hello即可
 
-
-- [ ] 支持全局模式,不再用进入bin再执行
+- [x] 支持全局模式,不再用进入bin再执行
 - [ ] 支持多渠道
 - [ ] 增加demo
 - [ ] 支持liux系统 (已经支持win和mac系统)

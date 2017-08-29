@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "hello": "./bin/hello.js"
+    "hello": "./bin/android.js"
   },
   "author": "",
   "license": "ISC",
